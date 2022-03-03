@@ -7,7 +7,7 @@
 
 ## GitHub Stats
 
-<img align="left" alt="ligmabalzzzz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ligmabalzzzz&theme=tokyonight$" />
+<img align="left" alt="ligmabalzzzz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ligmabalzzzz&theme=tokyonight" />
 
 
 
