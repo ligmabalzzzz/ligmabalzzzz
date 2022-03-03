@@ -9,9 +9,6 @@
 
 [![twitter](./img/tw.png)](https://twitter.com/DimitrisEbrahim)
 [![youtube](./img/yt.png)](https://www.youtube.com/channel/UCJQ_4gnMa7A49orDybZl7hA)
-
-<br/>
-
 ## Languages And Tools:
 
 [<img align="center" alt="HTML5" src="./img/html.png" width="48px" height="48px" />]
