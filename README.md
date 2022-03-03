@@ -1,6 +1,7 @@
 # Hi My Name Is Dimitris👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ligmabalzzzz)](https://github.com/ligmabalzzzz/github-readme-stats)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJQ_4gnMa7A49orDybZl7hA?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![Twitter Follow](https://img.shields.io/twitter/follow/DimitrisEbrahim?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 ## 🙋‍♂️ Am A Studen, Developer And Ethical Hacker!
 - 🛠 I'm Currently Working On My Personnal Portofolio
 - 📚 I'm Currently Learning PHP And Python
