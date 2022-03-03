@@ -43,10 +43,10 @@
 
 <details>
 <summary>👨‍💻 HAX</summary>
-[![youtube](./img/pe.png)](https://github.com/ligmabalzzzz)
-[![youtube](./img/kali.png)](https://github.com/ligmabalzzzz)
-[![youtube](./img/ub.png)](https://github.com/ligmabalzzzz)
-[![youtube](./img/ras.png)](https://github.com/ligmabalzzzz)
+[<img src="./img/pe.png"/>]
+[<img src="./img/kali.png"/>]
+[<img src="./img/ras.png"/>]
+[<img src="./img/ub.png"/>]
 </details>
 
 [twitter]: https://twitter.com/DimitrisEbrahim
