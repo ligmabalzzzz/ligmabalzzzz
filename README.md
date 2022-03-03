@@ -30,12 +30,14 @@
 [![youtube](./img/c.png)](https://github.com/ligmabalzzzz)
 [![youtube](./img/php.png)](https://github.com/ligmabalzzzz)
 [![youtube](./img/py.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/sql.png)](https://github.com/ligmabalzzzz)
 ### 🛠 Tools
 
 [![youtube](./img/git.png)](https://github.com/ligmabalzzzz)
 [![youtube](./img/vsc.png)](https://github.com/ligmabalzzzz)
 [![youtube](./img/vs.png)](https://github.com/ligmabalzzzz)
 [![youtube](./img/cons.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/sql.png)](https://github.com/ligmabalzzzz)
 ### 📺 Latest YouTube Videos!
 
 <!-- YOUTUBE:START -->
