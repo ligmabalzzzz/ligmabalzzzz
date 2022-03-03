@@ -21,8 +21,8 @@
 [<img align="center" alt="PHP" src="./img/php.png" width="48px" height="48px" />]
 [<img align="center" alt="Python" src="./img/py.png" width="48px" height="48px" />]
 
-<img align="center" alt="Node JS" src="./img/node.png" width="48px" height="48px" />
-<img align="center" alt="Github" src="./img/git.png" width="48px" height="48px" />
+[<img align="center" alt="Node JS" src="./img/node.png" width="48px" height="48px" />]
+[<img align="center" alt="Github" src="./img/git.png" width="48px" height="48px" />]
 
 [twitter]: https://twitter.com/DimitrisEbrahim
 [youtube]: https://www.youtube.com/channel/UCJQ_4gnMa7A49orDybZl7hA
