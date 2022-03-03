@@ -24,23 +24,18 @@
 
 ### ⌨ Languages
 
-<img src="./img/html.png" />
-<img src="./img/css.png" />
-<img src="./img/js.png" />
-<img src="./img/c.png" />
-<img src="./img/php.png.png" />
-<img src="./img/py.png" />
-<img src="./img/sql.png" />
-
+[![youtube](./img/html.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/css.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/js.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/c.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/php.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/py.png)](https://github.com/ligmabalzzzz)
 ### 🛠 Tools
 
-<img src="./img/git.png" />
-<img src="./img/vs.png" />
-<img src="./img/vsc.png" />
-<img src="./img/sql.png" />
-<img src="./img/cons.png" />
-<img src="./img/node.png.png" />
-
+[![youtube](./img/git.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/vsc.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/vs.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/cons.png)](https://github.com/ligmabalzzzz)
 ### 📺 Latest YouTube Videos!
 
 <!-- YOUTUBE:START -->
