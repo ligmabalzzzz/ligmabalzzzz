@@ -7,7 +7,7 @@
 
 ## Follow Me On:
 
-[![twitter](./img/tw.pnfg)(https://twitter.com/DimitrisEbrahim)]
+[![twitter](./img/tw.png)(https://twitter.com/DimitrisEbrahim)]
 [![youtube](./img/yt.png)(https://www.youtube.com/channel/UCJQ_4gnMa7A49orDybZl7hA)]
 
 <br/>
