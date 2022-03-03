@@ -5,14 +5,14 @@
 - 📚 I'm Currently Learning PHP And Python
 - 🏅 Hobbies: Martial Arts, Fishing, Drawing
 
-## Follow Me On:
+## 💻 Follow Me On:
 
 [![twitter](./img/tw.png)](https://twitter.com/DimitrisEbrahim)
 [![youtube](./img/yt.png)](https://www.youtube.com/channel/UCJQ_4gnMa7A49orDybZl7hA)
 
-## Languages And Tools
+## ⌨ Languages And Tools
 
-### Languages
+### ⌨ Languages
 
 [![youtube](./img/html.png)](https://github.com/ligmabalzzzz)
 [![youtube](./img/css.png)](https://github.com/ligmabalzzzz)
@@ -20,12 +20,14 @@
 [![youtube](./img/c.png)](https://github.com/ligmabalzzzz)
 [![youtube](./img/php.png)](https://github.com/ligmabalzzzz)
 [![youtube](./img/py.png)](https://github.com/ligmabalzzzz)
-### Tools
+### 🛠 Tools
 
 [![youtube](./img/git.png)]()
 [![youtube](./img/vsc.png)]()
 [![youtube](./img/vs.png)]()
 [![youtube](./img/node.png)]()
+
+## 📺 Latest YouTube Videos!
 
 [twitter]: https://twitter.com/DimitrisEbrahim
 [youtube]: https://www.youtube.com/channel/UCJQ_4gnMa7A49orDybZl7hA
