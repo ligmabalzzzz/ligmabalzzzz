@@ -32,10 +32,13 @@
 [![youtube](./img/py.png)](https://github.com/ligmabalzzzz)
 ### 🛠 Tools
 
-[![youtube](./img/git.png)]()
-[![youtube](./img/vsc.png)]()
-[![youtube](./img/vs.png)]()
-[![youtube](./img/node.png)]()
+[![youtube](./img/git.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/vsc.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/vs.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/pe.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/kali.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/ub.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/ras.png)](https://github.com/ligmabalzzzz)
 ### 📺 Latest YouTube Videos!
 
 <!-- YOUTUBE:START -->
