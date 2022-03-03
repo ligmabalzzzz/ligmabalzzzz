@@ -43,10 +43,10 @@
 
 <details>
 <summary>👨‍💻 HAX</summary>
-[<img src="./img/pe.png"/>]
-[<img src="./img/kali.png"/>]
-[<img src="./img/ras.png"/>]
-[<img src="./img/ub.png"/>]
+[ <img src="./img/pe.png" /> ]
+[ <img src="./img/kali.png" /> ]
+[ <img src="./img/ras.png" /> ]
+[ <img src="./img/ub.png" /> ]
 </details>
 
 [twitter]: https://twitter.com/DimitrisEbrahim
