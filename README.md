@@ -11,7 +11,7 @@
 
 <img align="left" alt="ligmabalzzzz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ligmabalzzzz&theme=tokyonight" />
 
-## 💻 Follow Me On:
+### 💻 Follow Me On:
 
 [![twitter](./img/tw.png)](https://twitter.com/DimitrisEbrahim)
 [![youtube](./img/yt.png)](https://www.youtube.com/channel/UCJQ_4gnMa7A49orDybZl7hA)
