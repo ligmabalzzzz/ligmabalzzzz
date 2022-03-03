@@ -1,6 +1,6 @@
 # Hi My Name Is Dimitris👋
 
-## Am A Studen, Developer And Ethical Hacker!
+## 🙋‍♂️ Am A Studen, Developer And Ethical Hacker!
 - 🛠 I'm Currently Working On My Personnal Portofolio
 - 📚 I'm Currently Learning PHP And Python
 - 🏅 Hobbies: Martial Arts, Fishing, Drawing
