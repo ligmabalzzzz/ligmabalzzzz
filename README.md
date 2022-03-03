@@ -36,14 +36,18 @@
 [![youtube](./img/vsc.png)](https://github.com/ligmabalzzzz)
 [![youtube](./img/vs.png)](https://github.com/ligmabalzzzz)
 [![youtube](./img/cons.png)](https://github.com/ligmabalzzzz)
-[![youtube](./img/pe.png)](https://github.com/ligmabalzzzz)
-[![youtube](./img/kali.png)](https://github.com/ligmabalzzzz)
-[![youtube](./img/ub.png)](https://github.com/ligmabalzzzz)
-[![youtube](./img/ras.png)](https://github.com/ligmabalzzzz)
 ### 📺 Latest YouTube Videos!
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+<details>
+<summary>👨‍💻 HAX</summary>
+[![youtube](./img/pe.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/kali.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/ub.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/ras.png)](https://github.com/ligmabalzzzz)
+</details>
 
 [twitter]: https://twitter.com/DimitrisEbrahim
 [youtube]: https://www.youtube.com/channel/UCJQ_4gnMa7A49orDybZl7hA
