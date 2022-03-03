@@ -9,9 +9,9 @@
 
 [![twitter](./img/tw.png)](https://twitter.com/DimitrisEbrahim)
 [![youtube](./img/yt.png)](https://www.youtube.com/channel/UCJQ_4gnMa7A49orDybZl7hA)
-## Languages And Tools:
+## Languages And Tools
 
-### Languages:
+### Languages
 
 [<img align="center" alt="HTML5" src="./img/html.png" width="48px" height="48px" />]
 [<img align="center" alt="CSS3" src="./img/css.png" width="48px" height="48px" />]
@@ -20,7 +20,7 @@
 [<img align="center" alt="PHP" src="./img/php.png" width="48px" height="48px" />]
 [<img align="center" alt="Python" src="./img/py.png" width="48px" height="48px" />]
 
-### Tools:
+### Tools
 
 [<img align="center" alt="Github" src="./img/git.png" width="48px" height="48px" />]
 [<img align="center" alt="Visual Studio Code" src="./img/vsc.png" width="48px" height="48px" />]
