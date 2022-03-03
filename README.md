@@ -14,12 +14,12 @@
 
 ### Languages
 
-[![youtube](./img/html.png)]()
-[![youtube](./img/css.png)]()
-[![youtube](./img/js.png)]()
-[![youtube](./img/c.png)]()
-[![youtube](./img/php.png)]()
-[![youtube](./img/py.png)]()
+[![youtube](./img/html.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/css.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/js.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/c.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/php.png)](https://github.com/ligmabalzzzz)
+[![youtube](./img/py.png)](https://github.com/ligmabalzzzz)
 ### Tools
 
 [![youtube](./img/git.png)]()
