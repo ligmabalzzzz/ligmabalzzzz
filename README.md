@@ -14,7 +14,7 @@
 
 ## Languages And Tools:
 
-[<img align="center" alt="HTML5" src="./img/html.png" width="48px" height="48px" />]
+[!<img align="center" alt="HTML5" src="./img/html.png" width="48px" height="48px" />]
 [<img align="center" alt="CSS3" src="./img/css.png" width="48px" height="48px" />]
 [<img align="center" alt="Javascript" src="./img/js.png" width="48px" height="48px" />]
 [<img align="center" alt="c" src="./img/c.png" width="48px" height="48px" />]
